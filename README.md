@@ -6,3 +6,5 @@ Quick demo used to show off Svelte's animation/transition capabilities. Uses:
 - [animate:flip](https://svelte.dev/docs#run-time-svelte-animate-flip)
 
 See the [experimental branch](https://github.com/geoffrich/star-wars-demo-svelte/tree/shared-element-transitions) implementing the same behavior using the [View Transitions API](https://developer.chrome.com/docs/web-platform/view-transitions/).
+
+Vidéo on Youtube (https://www.youtube.com/watch?v=QoR0AZ-Rov8&t=2165s)
